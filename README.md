@@ -1,8 +1,10 @@
+
+![Animation - 1719286867886](https://github.com/eganiard/eganiard/assets/166179103/0f2da5d8-ed82-49f7-ae1b-deccb9431111)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eganiard.eganiard" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hi+There!+👋;+I'm+Arthur!;" />
-</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&duration=3300&pause=1000&color=F7BA44&center=true&vCenter=true&random=false&width=670&lines=Hi+there!+;I'm+Arthur!;Welcome+to+my+README!" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate software engineer from the United Kingdom </h3>
 
