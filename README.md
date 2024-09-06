@@ -6,7 +6,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=45&duration=3300&pause=1000&color=F7BA44&center=true&vCenter=true&random=false&width=670&lines=Hi+there!+;I'm+Arthur!;Welcome+to+my+README!" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate software engineer from the United Kingdom </h3>
+<h3 align="center">A passionate Data Engineer from the United Kingdom </h3>
 
 <br/>
 
