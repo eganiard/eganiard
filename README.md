@@ -12,7 +12,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on a Tic-Tac-Toe project!
+ 🔭 -----------------------------------------
  
  🌱 I’m currently learning Python, SQL, creating servers and API's, Agile, Cloud Engineering, DevOps (laC, CI/CD)!
  
